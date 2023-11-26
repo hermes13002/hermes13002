@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Mobile Apps Development and ML Models**
+- 👯 I’m looking to collaborate on **Mobile Apps Development and ML Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://hermes13002.github.io/Portfolio-Website/](https://hermes13002.github.io/Portfolio-Website/)
 
