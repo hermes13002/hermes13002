@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Soares Ayoigbala</h1>
-<h3 align="center">An aspiring AI and Machine Learning Engineer</h3>
+<h3 align="center">An aspiring Machine Learning Engineer ad Mobile App Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermes13002" alt="hermes13002" /></a> </p>
 
-- 🔭 I’m currently working on **Building Mobile Apps**
+- 🔭 I’m currently **Building Mobile Applications with Flutter**
 
-- 🌱 I’m currently learning **Flutter**
-
-- 👯 I’m looking to collaborate on **Mobile Apps Development and ML Algorithms**
+- 👯 I’m looking to collaborate on **Mobile Apps and ML Model Development**
 
 - 👨‍💻 All of my projects are available at [https://hermes13002.github.io/Portfolio-Website/](https://hermes13002.github.io/Portfolio-Website/)
 
-- 💬 Ask me about **Python, Dart, OpenCV,...**
+- 💬 Ask me about **Python, Dart, Flutter, OpenCV,...**
 
-- 📫 How to reach me **hergoku13@gmail.com**
+- 📫 How to reach me **soaresayoigbala@gmail.com**
 
-- ⚡ Fun fact **I love planes**
+- ⚡ Fun fact **I love planes, fighter jets to be precise**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
