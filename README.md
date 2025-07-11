@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soares Ayoigbala</h1>
-<h3 align="center">An aspiring Machine Learning Engineer ad Mobile App Developer</h3>
+<h3 align="center">An aspiring Machine Learning Engineer and Mobile App Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermes13002" alt="hermes13002" /></a> </p>
 
