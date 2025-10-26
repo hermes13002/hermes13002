@@ -1,31 +1,76 @@
-<h1 align="center">Hi 👋, I'm Soares Ayoigbala</h1>
-<h3 align="center">An aspiring Machine Learning Engineer and Mobile App Developer</h3>
+<h1 align="center">Hey there 👋, I'm Soares Ayoigbala</h1>
+<h3 align="center">Mobile App Developer | Machine Learning Engineer | Backend Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hermes13002" alt="hermes13002" /></a> </p>
+---
 
-- 🔭 I’m currently **Building Mobile Applications with Flutter**
+### 🧠 About Me  
+I’m a passionate developer focused on crafting clean, efficient, and scalable software solutions.  
+I build mobile applications with **Flutter**, develop robust **backends** using **Django**, **Flask**, and **Shelf (Dart)**, and engineer intelligent systems powered by **Machine Learning**.  
 
-- 👯 I’m looking to collaborate on **Mobile Apps and ML Model Development**
+Currently, I’m enhancing my backend skills by implementing **RESTful APIs**, learning **Go**, and deploying projects to platforms like **Render**, **Railway**, and **Globe (for Dart)**.
 
-- 👨‍💻 All of my projects are available at [https://hermes13002.github.io/Portfolio-Website/](https://hermes13002.github.io/Portfolio-Website/)
+---
 
-- 💬 Ask me about **Python, Dart, Flutter, OpenCV,...**
+### 🚀 What I’m Working On  
+- 📱 Building and improving **mobile applications** with **Flutter**  
+- ⚙️ Developing and deploying **RESTful APIs** with Django, Flask, and Shelf  
+- 🐹 Learning **Go** for backend performance and concurrency  
+- ⚡ Using **Celery** for background task management  
+- 🧠 Working on ML models for real-world applications  
+- 📦 Maintaining my Flutter package: [**FSA**](https://pub.dev/packages/fsa) — *a CLI tool that automates Flutter asset management*  
 
-- 📫 How to reach me **soaresayoigbala@gmail.com**
+---
 
-- ⚡ Fun fact **I love planes, fighter jets to be precise**
+### 🛠️ Skills & Tools  
 
-<h3 align="left">Connect with me:</h3>
+**Programming Languages:**  
+`Dart` · `Python` · `Go (Learning)` · `SQL` (*PostgreSQL, MySQL, SQLite, MongoDB*)  
+
+**Frameworks & Tools:**  
+`Flutter` · `Firebase` · `Django` · `Flask` · `Shelf` · `Celery`  
+
+**Additional Tools:**  
+`Git` · `Adobe Illustrator` · `Arduino`
+
+---
+
+### 🌍 Connect With Me  
 <p align="left">
-<a href="https://linkedin.com/in/ayoigbala soares" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoigbala soares" height="30" width="40" /></a>
-<a href="https://kaggle.com/soares ayoigbala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="soares ayoigbala" height="30" width="40" /></a>
+  <a href="http://www.linkedin.com/in/ayoigbala-soares-60b282218" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://kaggle.com/soaresayoigbala" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30"/>
+  </a>
+  <a href="https://x.com/EXC_001" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
+  </a>
+  <a href="https://personal-portfolio-site-5w5s.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hermes13002&show_icons=true&locale=en&layout=compact" alt="hermes13002" /></p>
+### 📈 GitHub Stats  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hermes13002&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hermes13002&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hermes13002&show_icons=true&locale=en" alt="hermes13002" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hermes13002&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hermes13002&" alt="hermes13002" /></p>
+---
+
+### 💬 Quote  
+> “Building smart systems that make life simpler.”
+
+---
+
+### 📫 Reach Me  
+**📧 Email:** [soaresayoigbala@gmail.com](mailto:soaresayoigbala@gmail.com)  
+**📞 Phone:** [+234 903 194 5519](https://wa.me/2349031945519) *(WhatsApp & Calls)*  
+
+---
