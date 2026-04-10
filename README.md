@@ -7,24 +7,22 @@
 I’m a passionate developer focused on crafting clean, efficient, and scalable software solutions.  
 I build mobile applications with **Flutter**, develop robust **backends** using **Django**, **Flask**, and **Shelf (Dart)**, and engineer intelligent systems powered by **Machine Learning**.  
 
-Currently, I’m enhancing my backend skills by implementing **RESTful APIs**, learning **Go**, and deploying projects to platforms like **Render**, **Railway**, and **Globe (for Dart)**.
+Currently, I’m enhancing my backend skills by implementing **RESTful APIs** and deploying projects to platforms like **Render**, **Railway**, and **Globe (for Dart)** and also mobile apps to Play store and Apple store.
 
 ---
 
 ### 🚀 What I’m Working On  
-- 📱 Building and improving **mobile applications** with **Flutter**  
-- ⚙️ Developing and deploying **RESTful APIs** with Django, Flask, and Shelf  
-- 🐹 Learning **Go** for backend performance and concurrency  
-- ⚡ Using **Celery** for background task management  
-- 🧠 Working on ML models for real-world applications  
-- 📦 Maintaining my Flutter package: [**FSA**](https://pub.dev/packages/fsa) — *a CLI tool that automates Flutter asset management*  
+- Building and improving **mobile applications** with **Flutter**  
+- Developing and deploying **RESTful APIs** with Django, Flask
+- Working on ML models for real-world applications  
+- Maintaining my Flutter package: [**FSA**](https://pub.dev/packages/fsa) — *a CLI tool that automates Flutter asset management*  
 
 ---
 
 ### 🛠️ Skills & Tools  
 
 **Programming Languages:**  
-`Dart` · `Python` · `Go (Learning)` · `SQL` (*PostgreSQL, MySQL, SQLite, MongoDB*)  
+`Dart` · `Python` · `Go (Learning)` · `SQL` (*PostgreSQL, MySQL, SQLite*) · `NoSQL` (*MongoDB, Isar*)  
 
 **Frameworks & Tools:**  
 `Flutter` · `Firebase` · `Django` · `Flask` · `Shelf` · `Celery`  
@@ -36,15 +34,21 @@ Currently, I’m enhancing my backend skills by implementing **RESTful APIs**, l
 
 ### 🌍 Connect With Me  
 <p align="left">
-  <a href="http://www.linkedin.com/in/ayoigbala-soares-60b282218" target="_blank">
+  <a href="http://www.linkedin.com/in/ayoigbala-soares-60b282218" target="_blank" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
+
+  
   <a href="https://kaggle.com/soaresayoigbala" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" width="30" height="30"/>
   </a>
+
+  
   <a href="https://x.com/EXC_001" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>
+
+  
   <a href="https://personal-portfolio-site-5w5s.onrender.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
