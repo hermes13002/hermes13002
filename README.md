@@ -3,7 +3,7 @@
 
 ---
 
-### 🧠 About Me  
+### About Me  
 I’m a passionate developer focused on crafting clean, efficient, and scalable software solutions.  
 I build mobile applications with **Flutter**, develop robust **backends** using **Django**, **Flask**, and **Shelf (Dart)**, and engineer intelligent systems powered by **Machine Learning**.  
 
@@ -11,7 +11,7 @@ Currently, I’m enhancing my backend skills by implementing **RESTful APIs** an
 
 ---
 
-### 🚀 What I’m Working On  
+### What I’m Working On  
 - Building and improving **mobile applications** with **Flutter**  
 - Developing and deploying **RESTful APIs** with Django, Flask
 - Working on ML models for real-world applications  
@@ -19,7 +19,7 @@ Currently, I’m enhancing my backend skills by implementing **RESTful APIs** an
 
 ---
 
-### 🛠️ Skills & Tools  
+### Skills & Tools  
 
 **Programming Languages:**  
 `Dart` · `Python` · `Go (Learning)` · `SQL` (*PostgreSQL, MySQL, SQLite*) · `NoSQL` (*MongoDB, Isar*)  
@@ -32,7 +32,7 @@ Currently, I’m enhancing my backend skills by implementing **RESTful APIs** an
 
 ---
 
-### 🌍 Connect With Me  
+### Connect With Me  
 <p align="left">
   <a href="http://www.linkedin.com/in/ayoigbala-soares-60b282218" target="_blank" >
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
@@ -56,7 +56,7 @@ Currently, I’m enhancing my backend skills by implementing **RESTful APIs** an
 
 ---
 
-### 📈 GitHub Stats  
+### GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=hermes13002&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hermes13002&layout=compact&hide_border=true" alt="Top Languages" height="150"/>
@@ -68,13 +68,13 @@ Currently, I’m enhancing my backend skills by implementing **RESTful APIs** an
 
 ---
 
-### 💬 Quote  
+### Quote  
 > “Building smart systems that make life simpler.”
 
 ---
 
-### 📫 Reach Me  
-**📧 Email:** [soaresayoigbala@gmail.com](mailto:soaresayoigbala@gmail.com)  
-**📞 Phone:** [+234 903 194 5519](https://wa.me/2349031945519) *(WhatsApp & Calls)*  
+### Reach Me  
+**Email:** [soaresayoigbala@gmail.com](mailto:soaresayoigbala@gmail.com)  
+**Phone:** [+234 903 194 5519](https://wa.me/2349031945519) *(WhatsApp & Calls)*  
 
 ---
